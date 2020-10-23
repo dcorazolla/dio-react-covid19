@@ -12,6 +12,6 @@ Projeto "Desenvolvendo uma Progressive Web Application com React para mapear os 
 
 ### Acessar projeto
 
-[https://dcorazolla-dio-covid19-react.netlify.app/]https://dcorazolla-dio-covid19-react.netlify.app/
+[https://dcorazolla-dio-covid19-react.netlify.app/](https://dcorazolla-dio-covid19-react.netlify.app/)
 
 Data: 23/10/2020
